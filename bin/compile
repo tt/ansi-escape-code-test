@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+printf "\033[1mBold\033[0m\n"
+printf "\033[4mUnderline\033[0m\n"
+printf "\033[33mYellow\033[0m\n"
+
+Kernel.exit(1)

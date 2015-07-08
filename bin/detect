@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "ANSI escape code test"
+
+exit 0
